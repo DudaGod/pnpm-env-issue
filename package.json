@@ -1,0 +1,28 @@
+{
+  "name": "pnpm-env-issue",
+  "version": "1.0.0",
+  "description": "Example with incorrect using env variables in npmrc when run pnpm i using workspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DudaGod/pnpm-env-issue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DudaGod/pnpm-env-issue/issues"
+  },
+  "homepage": "https://github.com/DudaGod/pnpm-env-issue#readme",
+  "engines": {
+    "node": "16.16.0",
+    "npm": "8.11.0",
+    "pnpm": "7.14.2"
+  },
+  "dependencies": {
+    "nop": "^1.0.0"
+  }
+}
